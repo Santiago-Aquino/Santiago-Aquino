@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="left">Hola!Como estas?</h1>
 
-<!--
-**Santiago-Aquino/Santiago-Aquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Mi nombre es Santiago Aquino</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mí</h2>
+
+###
+
+<p align="left">✨ Soy Desarrollador Backend <br>📚 Actualmente sigo estudiando y capacitandome para poder trabajar de esto que tanto me gusta<br>🎯 Me gustaría poder conseguir experiencia trabajando en grupo y conociendo nuevas tecnologías<br></p>
+
+###
+
+<h2 align="left">Algunas de las tecnologías que uso:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
+          
+          
+</div>
+
+###
