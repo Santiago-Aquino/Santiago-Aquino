@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Soy Desarrollador Backend <br>📚 Actualmente sigo estudiando y capacitandome para poder trabajar de esto que tanto me gusta<br>🎯 Me gustaría poder conseguir experiencia trabajando en grupo y conociendo nuevas tecnologías<br></p>
+<p align="left">✨ Desarrollador Full Stack <br>📚 Actualmente sigo estudiando y capacitandome para poder trabajar de esto que tanto me gusta<br>🎯 Me gustaría poder conseguir experiencia trabajando en grupo y conociendo nuevas tecnologías<br></p>
 
 ###
 
